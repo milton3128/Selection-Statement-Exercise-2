@@ -10,19 +10,19 @@
 
             switch (subject.ToLower())
             {
-                case "Math":
+                case "math":
                     Console.WriteLine("Subject takes a lot of logic!");
                     break;
-                case "Science":
+                case "science":
                     Console.WriteLine("Subject takes a lot of research!");
                     break;
-                case "History":
+                case "history":
                     Console.WriteLine("Subject takes a lot of memory, contrast, and comparision!");
                     break;
-                case "Literature":
+                case "literature":
                     Console.WriteLine("Subject takes a lot of reading and comprehension ability!");
                     break;
-                case "P.E.":
+                case "p.e.":
                     Console.WriteLine("Subject takes a lot of physical endurance and strength!");
                     break;
                 default:
